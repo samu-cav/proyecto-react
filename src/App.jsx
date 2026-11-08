@@ -1,6 +1,6 @@
-
 import { useState } from 'react'
-import confetti from 'canvas-confetti'
+import confetti from 'react-confetti'
+import PlanetScene from './PlanetScene'
 import './App.css'
 
 function App() {
@@ -8,6 +8,7 @@ function App() {
 
   return (
     <>
+      <PlanetScene />
       <h1>Vite + React</h1>
 
       <div className="card">
