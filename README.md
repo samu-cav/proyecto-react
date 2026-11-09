@@ -3,13 +3,16 @@
 ## Capturas del proyecto
 
 ### 1. React Confetti
-Captura de la web con el componente react-confetti.
+
+![React Confetti](capturas/Screenshot%202026-11-09%20170947.png)
 
 ### 2. Canvas Confetti
-Captura de la web con el componente canvas-confetti.
+
+![Canvas Confetti](capturas/Screenshot%202026-11-09%20172352.png)
 
 ### 3. Three.js
-Captura de la web con la escena 3D de fondo.
+
+![Three.js](capturas/Screenshot%202026-11-09%20180919.png)
 
 ## Pregunta teórica
 
@@ -19,4 +22,4 @@ Sí. Aunque `node_modules/` está excluida del repositorio, al eliminar una depe
 
 ## Despliegue
 
-Web publicada: (añadir aquí el enlace de GitHub Pages).
+Web publicada: https://samu-cav.github.io/proyecto-react
