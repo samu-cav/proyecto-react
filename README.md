@@ -22,4 +22,4 @@ Sí. Aunque `node_modules/` está excluida del repositorio, al eliminar una depe
 
 ## Despliegue
 
-Web publicada: https://samu-cav.github.io/proyecto-react
+Web publicada: https://samu-cav.github.io/proyecto-react-deploy/
